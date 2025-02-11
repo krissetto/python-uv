@@ -1,0 +1,7 @@
+[project]
+name = "fasglet"
+version = "0.1.0"
+description = "Dummy FastAPI + figlet server"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["fastapi[standard]", "pyfiglet"]
